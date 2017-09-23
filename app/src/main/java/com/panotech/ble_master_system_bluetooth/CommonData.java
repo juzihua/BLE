@@ -17,7 +17,7 @@ public class CommonData {
 
     public static int WholePeople = 0;
 
-    public static final long RefreshTime = 3000;
+    public static final long RefreshTime = 5000;
 
     public static boolean isOver() throws ParseException {
 
